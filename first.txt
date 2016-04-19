@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+	<title>MINIMUM</title>
+	<meta charset="utf-8">
+	<meta name="Keywords" content="">
+	<meta name="Description" content="">
+	<link	type="image/x-icon"		href="/a/img/icons/fav.ico" rel="shortcut icon">
+	<link	type="text/css"			href="/a/css/forms.css" media="screen" rel="stylesheet">
+	<style>
+		html, body, div, a, img, p, h1, h2, h3, h4, h5, h6, table, .null { border: 0; margin: 0; padding: 0; }
+	</style>
+</head>
+<body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+</body>
+</html>
